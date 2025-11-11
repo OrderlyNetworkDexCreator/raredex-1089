@@ -3,16 +3,16 @@
   --oui-font-size-base: 16px;
 
   /* colors */
-  --oui-color-primary: 100 100 100;
-  --oui-color-primary-light: 180 180 180;
-  --oui-color-primary-darken: 70 70 70;
+  --oui-color-primary: 0 0 0;
+  --oui-color-primary-light: 148 148 148;
+  --oui-color-primary-darken: 0 0 0;
   --oui-color-primary-contrast: 0 0 0;
 
-  --oui-color-link: 60 60 60;
-  --oui-color-link-light: 120 120 120;
+  --oui-color-link: 0 0 0;
+  --oui-color-link-light: 0 0 0;
 
-  --oui-color-secondary: 255 255 255;
-  --oui-color-tertiary: 240 240 240;
+  --oui-color-secondary: 0 0 0;
+  --oui-color-tertiary: 0 0 0;
   --oui-color-quaternary: 220 220 220;
 
   --oui-color-danger: 220 60 80;
@@ -97,13 +97,4 @@
 html, body {
   font-family: 'Manrope', sans-serif !important;
   font-size: 16px !important;
-}
-
-:root {
-  /* …твой набор переменных… */
-}
-
-/* кастом поверх темы Aden */
-.oui-scaffold-footer-powered-by {
-  display: none !important;
 }
