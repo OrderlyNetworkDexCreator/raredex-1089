@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Rewards",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "Documentation, https://docs.raredex.trade/; Twtitter, https://x.com/Raredextrade",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
@@ -35,7 +35,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "",
   "VITE_AVAILABLE_LANGUAGES": "en,zh",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ANALYTICS_SCRIPT": ""
 };
